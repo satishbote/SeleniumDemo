@@ -20,7 +20,7 @@ public class shadow_DOM {
 
         driver = new ChromeDriver(options);
         driver.get("chrome://downloads/");
-        
+
         WebElement root1 = driver.findElement(By.tagName("downloads-manager"));
         WebElement shadow_root1 = expand_shadow_element(root1);
 

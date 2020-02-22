@@ -67,7 +67,7 @@
       <recent name="C:\SelfStudy\SeleniumDemo\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ShadowDOMExample.testGetText_Click_FromShadowDOMElements">
+  <component name="RunManager" selected="Application.shadow_DOM">
     <configuration name="shadow_DOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.seleniumdemo.tests.shadow_DOM" />
       <module name="SeleniumDemo" />
@@ -137,9 +137,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.shadow_DOM" />
         <item itemvalue="TestNG.ShadowDOMExample.testGetText_Click_FromShadowDOMElements" />
         <item itemvalue="TestNG.FileDownloadTest.downloadFileTest" />
-        <item itemvalue="Application.shadow_DOM" />
         <item itemvalue="Application.shadow_DOM" />
       </list>
     </recent_temporary>
@@ -199,22 +199,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="217" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582367519708" />
-    <state width="1286" height="177" key="GridCell.Tab.0.bottom" timestamp="1582374235209">
+    <state width="1286" height="177" key="GridCell.Tab.0.bottom" timestamp="1582374647432">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582374235209" />
-    <state width="1286" height="177" key="GridCell.Tab.0.center" timestamp="1582374235209">
+    <state width="1286" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582374647432" />
+    <state width="1286" height="177" key="GridCell.Tab.0.center" timestamp="1582374647431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582374235209" />
-    <state width="1286" height="177" key="GridCell.Tab.0.left" timestamp="1582374235209">
+    <state width="1286" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582374647431" />
+    <state width="1286" height="177" key="GridCell.Tab.0.left" timestamp="1582374647431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582374235209" />
-    <state width="1286" height="177" key="GridCell.Tab.0.right" timestamp="1582374235209">
+    <state width="1286" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582374647431" />
+    <state width="1286" height="177" key="GridCell.Tab.0.right" timestamp="1582374647432">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582374235209" />
+    <state width="1286" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582374647432" />
     <state width="1286" height="195" key="GridCell.Tab.1.bottom" timestamp="1582372166558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
