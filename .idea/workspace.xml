@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98e99df3-40d7-43ac-9295-b02f050ad3d5" name="Default Changelist" comment="adding packages and changes suggested by SonarLint">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/seleniumdemo/utility/FileDownload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/seleniumdemo/utility/FileDownload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/seleniumdemo/tests/FileDownloadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/seleniumdemo/tests/FileDownloadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +149,7 @@
       <workItem from="1582347789019" duration="2774000" />
       <workItem from="1582352569200" duration="3743000" />
       <workItem from="1582362108924" duration="6253000" />
-      <workItem from="1582371613370" duration="1819000" />
+      <workItem from="1582371613370" duration="2100000" />
     </task>
     <task id="LOCAL-00001" summary="adding code for shadow DOM">
       <created>1582367526185</created>
