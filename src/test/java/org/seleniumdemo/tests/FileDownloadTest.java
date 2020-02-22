@@ -4,6 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.seleniumdemo.utility.FileDownload;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
@@ -37,7 +38,7 @@ public class FileDownloadTest {
         //DesiredCapabilities cap=DesiredCapabilities.chrome();
         //cap.setCapability(ChromeOptions.CAPABILITY,options);
 
-       // driver=new ChromeDriver(cap);
+       driver=new ChromeDriver(options);
     }
 
 
