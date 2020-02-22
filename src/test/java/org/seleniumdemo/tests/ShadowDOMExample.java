@@ -32,14 +32,12 @@ public class ShadowDOMExample {
         System.out.println("Open Chrome downloads");
         driver.get("chrome://downloads/");
 
-
         JavascriptExecutor jse = (JavascriptExecutor) driver;
 
         WebElement eleDownloads = (WebElement) jse.executeScript("return document.querySelector('downloads-manager').shadowRoot.querySelector('downloads-toolbar#toolbar').shadowRoot.querySelector('cr-toolbar#toolbar').shadowRoot.querySelector('div#leftContent div#leftSpacer h1')");
         String header = eleDownloads.getText();
 
         System.out.println("downloads page header text= "+header);
-
 
         WebElement search_box1 = (WebElement) jse.executeScript("return document.querySelector('downloads-manager').shadowRoot.querySelector('downloads-toolbar#toolbar').shadowRoot.querySelector('cr-toolbar#toolbar').shadowRoot.querySelector('cr-toolbar-search-field#search').shadowRoot.querySelector('div#searchTerm input#searchInput')");
         System.out.println("\nsearch tagName= "+search_box1.getTagName());
@@ -60,7 +58,6 @@ public class ShadowDOMExample {
         ((JavascriptExecutor) driver).executeScript("arguments[0].click();", moreActions);
 
         System.out.println("\nAfter Click on More actions");
-
     }
 
     @AfterTest

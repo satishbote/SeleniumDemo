@@ -17,8 +17,10 @@ public class shadow_DOM {
         options.addArguments("start-maximized");
         //options.addArguments("disable-infobars");
         options.addArguments("--disable-extensions");
+
         driver = new ChromeDriver(options);
         driver.get("chrome://downloads/");
+        
         WebElement root1 = driver.findElement(By.tagName("downloads-manager"));
         WebElement shadow_root1 = expand_shadow_element(root1);
 

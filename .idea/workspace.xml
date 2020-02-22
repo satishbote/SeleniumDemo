@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98e99df3-40d7-43ac-9295-b02f050ad3d5" name="Default Changelist" comment="adding packages and changes suggested by SonarLint">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/seleniumdemo/utility/shadow_DOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/seleniumdemo/utility/shadow_DOM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver-old.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/seleniumdemo/tests/ShadowDOMExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/seleniumdemo/tests/ShadowDOMExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver-old.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/seleniumdemo/utility/FileDownload.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/seleniumdemo/utility/FileDownload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/seleniumdemo/tests/FileDownloadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/seleniumdemo/tests/FileDownloadTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +67,7 @@
       <recent name="C:\SelfStudy\SeleniumDemo\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FileDownloadTest.downloadFileTest">
+  <component name="RunManager" selected="TestNG.ShadowDOMExample.testGetText_Click_FromShadowDOMElements">
     <configuration name="shadow_DOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.seleniumdemo.tests.shadow_DOM" />
       <module name="SeleniumDemo" />
@@ -129,8 +137,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FileDownloadTest.downloadFileTest" />
         <item itemvalue="TestNG.ShadowDOMExample.testGetText_Click_FromShadowDOMElements" />
+        <item itemvalue="TestNG.FileDownloadTest.downloadFileTest" />
         <item itemvalue="Application.shadow_DOM" />
         <item itemvalue="Application.shadow_DOM" />
       </list>
@@ -149,7 +157,7 @@
       <workItem from="1582347789019" duration="2774000" />
       <workItem from="1582352569200" duration="3743000" />
       <workItem from="1582362108924" duration="6253000" />
-      <workItem from="1582371613370" duration="2100000" />
+      <workItem from="1582371613370" duration="2629000" />
     </task>
     <task id="LOCAL-00001" summary="adding code for shadow DOM">
       <created>1582367526185</created>
@@ -191,22 +199,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="217" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582367519708" />
-    <state width="1286" height="178" key="GridCell.Tab.0.bottom" timestamp="1582373553001">
+    <state width="1286" height="177" key="GridCell.Tab.0.bottom" timestamp="1582374235209">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582373553001" />
-    <state width="1286" height="178" key="GridCell.Tab.0.center" timestamp="1582373553001">
+    <state width="1286" height="177" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582374235209" />
+    <state width="1286" height="177" key="GridCell.Tab.0.center" timestamp="1582374235209">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582373553001" />
-    <state width="1286" height="178" key="GridCell.Tab.0.left" timestamp="1582373553001">
+    <state width="1286" height="177" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582374235209" />
+    <state width="1286" height="177" key="GridCell.Tab.0.left" timestamp="1582374235209">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582373553001" />
-    <state width="1286" height="178" key="GridCell.Tab.0.right" timestamp="1582373553001">
+    <state width="1286" height="177" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582374235209" />
+    <state width="1286" height="177" key="GridCell.Tab.0.right" timestamp="1582374235209">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582373553001" />
+    <state width="1286" height="177" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582374235209" />
     <state width="1286" height="195" key="GridCell.Tab.1.bottom" timestamp="1582372166558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -237,12 +245,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/org/seleniumdemo/tests/ShadowDOMExample.java</url>
-          <line>56</line>
+          <line>54</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/org/seleniumdemo/tests/ShadowDOMExample.java</url>
-          <line>61</line>
+          <line>59</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
