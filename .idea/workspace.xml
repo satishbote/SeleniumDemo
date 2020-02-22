@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98e99df3-40d7-43ac-9295-b02f050ad3d5" name="Default Changelist" comment="adding packages and changes suggested by SonarLint">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FileDownload.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FileDownloadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8449c94a-4366-4011-95cd-bf7dc5d37554/some-file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoteSystemsTempFiles/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a897caca-6c44-49b4-baec-99c43ba15d09/some-file.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +124,7 @@
       <updated>1578206336928</updated>
       <workItem from="1582347789019" duration="2774000" />
       <workItem from="1582352569200" duration="3743000" />
-      <workItem from="1582362108924" duration="5651000" />
+      <workItem from="1582362108924" duration="6125000" />
     </task>
     <task id="LOCAL-00001" summary="adding code for shadow DOM">
       <created>1582367526185</created>
