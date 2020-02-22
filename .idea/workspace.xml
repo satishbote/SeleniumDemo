@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98e99df3-40d7-43ac-9295-b02f050ad3d5" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="98e99df3-40d7-43ac-9295-b02f050ad3d5" name="Default Changelist" comment="adding packages and changes suggested by SonarLint">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FileDownload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/seleniumdemo/utility/FileDownload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FileDownloadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FileDownload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FileDownloadTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +25,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -28,11 +42,26 @@
     </option>
   </component>
   <component name="ProjectId" id="1VxsymNKpCzd1NOJMwar1VCxR9b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.seleniumdemo.tests" />
+      <recent name="org.seleniumdemo.filedownload" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -40,24 +69,43 @@
       <recent name="C:\SelfStudy\SeleniumDemo\src\main\resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.ShadowDOMExample.testGetText_FromShadowDOMElements">
+    <configuration name="shadow_DOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.seleniumdemo.tests.shadow_DOM" />
+      <module name="SeleniumDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.seleniumdemo.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FileDownloadTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumDemo" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FileDownloadTest" />
+      <option name="MAIN_CLASS_NAME" value="org.seleniumdemo.tests.FileDownloadTest" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShadowDOMExample.testGetText_FromShadowDOMElements" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.seleniumdemo.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.seleniumdemo.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.seleniumdemo.tests.ShadowDOMExample" />
+      <option name="METHOD_NAME" value="testGetText_FromShadowDOMElements" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -66,6 +114,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ShadowDOMExample.testGetText_FromShadowDOMElements" />
+        <item itemvalue="Application.shadow_DOM" />
         <item itemvalue="TestNG.FileDownloadTest" />
       </list>
     </recent_temporary>
@@ -80,7 +130,84 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578206336928</updated>
+      <workItem from="1582347789019" duration="2774000" />
+      <workItem from="1582352569200" duration="3743000" />
+      <workItem from="1582362108924" duration="5068000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding packages and changes suggested by SonarLint" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding packages and changes suggested by SonarLint" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1286" height="195" key="GridCell.Tab.0.bottom" timestamp="1582367396546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582367396546" />
+    <state width="1286" height="195" key="GridCell.Tab.0.center" timestamp="1582367396546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582367396546" />
+    <state width="1286" height="195" key="GridCell.Tab.0.left" timestamp="1582367396546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582367396546" />
+    <state width="1286" height="195" key="GridCell.Tab.0.right" timestamp="1582367396546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582367396546" />
+    <state width="1286" height="195" key="GridCell.Tab.1.bottom" timestamp="1582367367362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582367367362" />
+    <state width="1286" height="195" key="GridCell.Tab.1.center" timestamp="1582367367362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582367367362" />
+    <state width="1286" height="195" key="GridCell.Tab.1.left" timestamp="1582367367362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582367367362" />
+    <state width="1286" height="195" key="GridCell.Tab.1.right" timestamp="1582367367362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582367367362" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1582347790954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582347790954" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/seleniumdemo/tests/ShadowDOMExample.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/seleniumdemo/tests/ShadowDOMExample.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
