@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: org.seleniumdemo.tests.FileDownloadTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.765 sec <<< FAILURE!
+downloadFileTest(org.seleniumdemo.tests.FileDownloadTest)  Time elapsed: 0.016 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at org.seleniumdemo.tests.FileDownloadTest.downloadFileTest(FileDownloadTest.java:47)
+
+tearDown(org.seleniumdemo.tests.FileDownloadTest)  Time elapsed: 0.016 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at org.seleniumdemo.tests.FileDownloadTest.tearDown(FileDownloadTest.java:69)
+

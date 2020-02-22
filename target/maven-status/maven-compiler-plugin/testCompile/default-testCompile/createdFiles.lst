@@ -1,0 +1,3 @@
+org\seleniumdemo\tests\FileDownloadTest.class
+org\seleniumdemo\tests\ShadowDOMExample.class
+org\seleniumdemo\tests\shadow_DOM.class

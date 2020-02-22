@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98e99df3-40d7-43ac-9295-b02f050ad3d5" name="Default Changelist" comment="adding packages and changes suggested by SonarLint">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FileDownload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/seleniumdemo/utility/FileDownload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FileDownloadTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/FileDownload.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chromedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/FileDownloadTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,8 +124,16 @@
       <updated>1578206336928</updated>
       <workItem from="1582347789019" duration="2774000" />
       <workItem from="1582352569200" duration="3743000" />
-      <workItem from="1582362108924" duration="5068000" />
+      <workItem from="1582362108924" duration="5651000" />
     </task>
+    <task id="LOCAL-00001" summary="adding code for shadow DOM">
+      <created>1582367526185</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582367526185</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,41 +154,50 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding packages and changes suggested by SonarLint" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding packages and changes suggested by SonarLint" />
+    <MESSAGE value="adding code for shadow DOM" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding code for shadow DOM" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1286" height="195" key="GridCell.Tab.0.bottom" timestamp="1582367396546">
+    <state x="217" y="0" key="CommitChangelistDialog2" timestamp="1582367519708">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="195" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582367396546" />
-    <state width="1286" height="195" key="GridCell.Tab.0.center" timestamp="1582367396546">
+    <state x="217" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582367519708" />
+    <state width="1286" height="195" key="GridCell.Tab.0.bottom" timestamp="1582367946155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="195" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582367396546" />
-    <state width="1286" height="195" key="GridCell.Tab.0.left" timestamp="1582367396546">
+    <state width="1286" height="195" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582367946155" />
+    <state width="1286" height="195" key="GridCell.Tab.0.center" timestamp="1582367946155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="195" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582367396546" />
-    <state width="1286" height="195" key="GridCell.Tab.0.right" timestamp="1582367396546">
+    <state width="1286" height="195" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582367946155" />
+    <state width="1286" height="195" key="GridCell.Tab.0.left" timestamp="1582367946155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="195" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582367396546" />
-    <state width="1286" height="195" key="GridCell.Tab.1.bottom" timestamp="1582367367362">
+    <state width="1286" height="195" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582367946155" />
+    <state width="1286" height="195" key="GridCell.Tab.0.right" timestamp="1582367946155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="195" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582367367362" />
-    <state width="1286" height="195" key="GridCell.Tab.1.center" timestamp="1582367367362">
+    <state width="1286" height="195" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582367946155" />
+    <state width="1286" height="195" key="GridCell.Tab.1.bottom" timestamp="1582367946155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="195" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582367367362" />
-    <state width="1286" height="195" key="GridCell.Tab.1.left" timestamp="1582367367362">
+    <state width="1286" height="195" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582367946155" />
+    <state width="1286" height="195" key="GridCell.Tab.1.center" timestamp="1582367946155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="195" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582367367362" />
-    <state width="1286" height="195" key="GridCell.Tab.1.right" timestamp="1582367367362">
+    <state width="1286" height="195" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582367946155" />
+    <state width="1286" height="195" key="GridCell.Tab.1.left" timestamp="1582367946155">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="195" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582367367362" />
+    <state width="1286" height="195" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582367946155" />
+    <state width="1286" height="195" key="GridCell.Tab.1.right" timestamp="1582367946155">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="195" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582367946155" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1582367602856">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1582367602856" />
     <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1582347790954">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
