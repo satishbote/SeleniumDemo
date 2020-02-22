@@ -3,9 +3,7 @@ package org.seleniumdemo.utility;
 import java.io.File;
 
 public class FileDownload {
-private FileDownload(){
 
-}
  //Get the latest file from a specific directory
 
     public static File getLatestFilefromDir(String dirPath){

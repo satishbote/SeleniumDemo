@@ -18,7 +18,7 @@ import java.util.concurrent.TimeUnit;
 
 public class FileDownloadTest {
 
-    WebDriver driver;
+    public WebDriver driver;
     File folder;
 
     @BeforeMethod
